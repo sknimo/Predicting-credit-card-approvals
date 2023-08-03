@@ -1,8 +1,8 @@
 # Prediction credit card approval
 
-![Image](https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg)
+![Image](https://content.jdmagicbox.com/comp/def_content/credit_card_agents/singh-financial-service-hazratganj-lucknow-personal-loans-7.jpg)
 
-<sub><sup>https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg?</sup></sub>
+<sub><sup>https://content.jdmagicbox.com/comp/def_content/credit_card_agents/singh-financial-service-hazratganj-lucknow-personal-loans-7.jpg</sup></sub>
 
 ## Introduction
 
