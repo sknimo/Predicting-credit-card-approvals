@@ -1,8 +1,8 @@
 # Prediction credit card approval
 
-![Image plastic](https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg?update-time=1659037948144&size=responsive640)
+![Image](https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg)
 
-<sub><sup>https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg?update-time=1659037948144&size=responsive640</sup></sub>
+<sub><sup>https://www.usnews.com/object/image/00000182-465d-d510-ab9f-4f7d2e5d0000/gettyimages-936400526-1.jpg?</sup></sub>
 
 ## Introduction
 
