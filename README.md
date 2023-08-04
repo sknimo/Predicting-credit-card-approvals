@@ -39,3 +39,11 @@ import seaborn as sns
 df_cc = pd.read_csv('../input/predicting-credit-card-approvals/cc_approvals.data',header = None)
 df_cc.head()
 ```
+
+lals
+
+```python {cmd=true matplotlib=true}
+import matplotlib.pyplot as plt
+plt.plot([1,2,3, 4])
+plt.show() # show figure
+```
